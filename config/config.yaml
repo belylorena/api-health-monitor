@@ -1,0 +1,8 @@
+apis:
+  - name: JSONPlaceholder Post 1
+    url: https://jsonplaceholder.typicode.com/posts/1
+    max_response_time: 1.0
+
+  - name: JSONPlaceholder Users
+    url: https://jsonplaceholder.typicode.com/users
+    max_response_time: 1.0
