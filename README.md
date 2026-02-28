@@ -119,8 +119,6 @@ apis:
 -   Requests
 -   PyYAML
 
-------------------------------------------------------------------------
-
 ## 🎯 Future Improvements
 
 -   Email alert integration
@@ -129,13 +127,9 @@ apis:
 -   Docker support
 -   CI/CD integration (GitHub Actions)
 
-------------------------------------------------------------------------
-
 ## 👩‍💻 Author
 
 Isabelly Lorena\
 QA Engineer \| API Testing \| Automation Enthusiast
-
-------------------------------------------------------------------------
 
 ⭐ If you find this useful, consider giving it a star!
