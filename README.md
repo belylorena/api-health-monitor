@@ -31,6 +31,7 @@ This tool simulates a simplified internal monitoring system.
 
 ## 📂 Project Structure
 
+```
 api-health-monitor/ 
 │
 ├── main.py \# Entry point 
@@ -42,6 +43,7 @@ api-health-monitor/
 ├──core/ 
 │ └── monitor.py \# API validation logic 
 │ └── reports/ \#Auto-generated execution reports
+```
 
 ## ⚙️ Installation
 
